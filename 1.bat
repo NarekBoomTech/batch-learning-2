@@ -1,4 +1,4 @@
-set baseBranch="master"
+set baseBranch="staging"
 
 git config --add --bool push.autoSetupRemote true
 git add .
